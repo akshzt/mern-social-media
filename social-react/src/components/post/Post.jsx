@@ -7,7 +7,7 @@ import { MoreVert } from "@material-ui/icons";
 import { Link } from 'react-router-dom';
 
 // import { Users } from "../../dummyData";
-//x
+
 function Post( { post } ) {
 
     const [like, setLike] = useState(post.likes.length)

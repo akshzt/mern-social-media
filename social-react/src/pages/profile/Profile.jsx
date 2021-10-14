@@ -31,7 +31,7 @@ function Profile() {
                     </div>
                     
                     <div className="profileRightBottom">
-                        <Feed />
+                        <Feed username="matt" />
                         <Rightbar profile /> 
                     </div>
 
